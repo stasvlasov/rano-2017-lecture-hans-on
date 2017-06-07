@@ -1,0 +1,12 @@
+#+TITLE: Hands-on example from RANO 2017 Lecture 10
+#+AUTHOR: Stas Vlasov and RANO team
+#+DATE: May 31st 2017
+
+How to get your hands on the data?
+1. Install R http://www.r-project.org/
+2. Install RStudio https://www.rstudio.com/
+3. Get the code by either
+   - click "Clone or download" button (green one in the right corner) and download ZIP to your PC
+   - if you have Git installed ~$ git clone https://github.com/stasvlasov/rano-2017-hands-on.git~
+4. Open R script (rano-2017.lecture.handson.R) in RStudio, run it and enjoy!
+5. You should be able to produce something like [[http://stasvlasov.ru/rano-2017-lecture-hands-on/friendship.html][this]] yourself
